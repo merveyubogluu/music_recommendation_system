@@ -1,6 +1,6 @@
-# Music Recommendation Sytem with Python
+# Music Recommendation System with Python
 
-This project uses the  https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db/code dataset, you can find it on the link. In the project, i created some functions to build the project. Main purpose of the project is developing a music recommender with python. It has 2 options. In the first option you can search the database and see some songs you search. In the second option you write a song name and an artist name of the song, the model will search the database and find the closest song in the dataset. Acording to that song it will measure the cosine distance with every other song şn the dataset. It'll want you to enter some number of recommendations, and it will give you those recommendations.
+This project uses the  https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db/code dataset, you can find it on the link. In the project, i created some functions to build the project. Main purpose of the project is developing a music recommender with python. It has 2 options. In the first option you can search the database and see some songs you search. In the second option you write a song name and an artist name of the song, the model will search the database and find the closest song in the dataset. Acording to that song it will measure the cosine distance with every other song in the dataset. It'll want you to enter some number of recommendations, and it will give you those recommendations.
 
 ## Functions
 
